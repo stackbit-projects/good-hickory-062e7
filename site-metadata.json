@@ -40,12 +40,6 @@
             },
             {
                 "label": "",
-                "url": "/blog",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "label": "",
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
