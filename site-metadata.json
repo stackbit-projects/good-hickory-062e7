@@ -73,12 +73,6 @@
                 "url": "/style-guide",
                 "style": "link",
                 "has_subnav": false
-            },
-            {
-                "label": "",
-                "url": "https://github.com/",
-                "style": "primary",
-                "has_subnav": false
             }
         ]
     },
